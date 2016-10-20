@@ -1,0 +1,3 @@
+<h1># LJ Code 201 - Day 3</h1>
+
+Today we went over more CSS styling techinques and a little bit of Javascript. We still have not caught up with where I got to in Codeacademy but it is nice to have real professionals critiquing my code. Linter is being a pain in the ass as it sometimes does not work. Ah well maybe I have to do some tinkering with it. As I see other's assignments being presented you can already see where some people are stronger, language-wise, or at least where they focus. I will bash my head until I get some presentable CSS in my assignments but as my interest is less in that direction I know I will have to force myself to look into that area.  
